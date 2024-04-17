@@ -2,7 +2,7 @@
 
 Some public repositories I've contributed to:
 
-- [Picodes/4naly3er](https://github.com/Picodes/4naly3er/pull/40#pullrequestreview-1811457892)
+- [Picodes/4naly3er](https://github.com/Picodes/4naly3er/pull/40)
 - [huff-language/huff-project-template](https://github.com/huff-language/huff-project-template/pull/17)
 
 <!--
