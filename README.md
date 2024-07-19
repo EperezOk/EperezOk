@@ -4,6 +4,7 @@ Some public repositories I've contributed to:
 
 - [Picodes/4naly3er](https://github.com/Picodes/4naly3er/pull/40)
 - [huff-language/huff-project-template](https://github.com/huff-language/huff-project-template/pull/17)
+- [crytic/medusa](https://github.com/crytic/medusa/pull/403)
 
 <!--
 **EperezOk/EperezOk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
