@@ -6,6 +6,12 @@ Some of my pull requests to open-source projects:
 - [huff-language/huff-project-template](https://github.com/huff-language/huff-project-template/pull/17)
 - [Picodes/4naly3er](https://github.com/Picodes/4naly3er/pull/40)
 
+### Technical Articles 📃
+
+Technical articles I’ve written:
+
+- [Formal Verification: From Programs to Formulas](https://eperez.blog/formal-verification-from-programs-to-formulas)
+
 <!--
 **EperezOk/EperezOk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
