@@ -11,6 +11,7 @@ Some of my pull requests to open-source projects:
 Technical articles I’ve written:
 
 - [Formal Verification: From Programs to Formulas](https://eperez.blog/formal-verification-from-programs-to-formulas)
+- [Inside Ethereum's Engine: How the Execution Layer Actually Works](https://www.openzeppelin.com/news/how-the-ethereum-execution-layer-works) (OpenZeppelin Blog)
 
 <!--
 **EperezOk/EperezOk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
