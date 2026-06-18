@@ -2,6 +2,7 @@
 
 Some of my pull requests to open-source projects:
 
+- [Uniswap/liquidity-launcher](https://github.com/Uniswap/liquidity-launcher/pull/165)
 - [ethereum/execution-specs](https://github.com/ethereum/execution-specs/pulls?q=is%3Apr+is%3Aclosed+author%3AEperezOk+review%3Aapproved)
 - [huff-language/huff-project-template](https://github.com/huff-language/huff-project-template/pull/17)
 - [Picodes/4naly3er](https://github.com/Picodes/4naly3er/pull/40)
