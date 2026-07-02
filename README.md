@@ -1,11 +1,12 @@
 ### Contributions 🔭
 
-Some of my pull requests to open-source projects:
+Some of my open-source contributions:
 
-- [Uniswap/liquidity-launcher](https://github.com/Uniswap/liquidity-launcher/pull/165)
-- [ethereum/execution-specs](https://github.com/ethereum/execution-specs/pulls?q=is%3Apr+is%3Aclosed+author%3AEperezOk+review%3Aapproved)
-- [huff-language/huff-project-template](https://github.com/huff-language/huff-project-template/pull/17)
-- [Picodes/4naly3er](https://github.com/Picodes/4naly3er/pull/40)
+- [**Uniswap/liquidity-launcher**](https://github.com/Uniswap/liquidity-launcher/pull/165): Implemented a solution to an open question after auditing the protocol.
+- [**ethereum/execution-specs**](https://github.com/ethereum/execution-specs/pulls?q=is%3Apr+is%3Aclosed+author%3AEperezOk+review%3Aapproved): Helped simplify and document Ethereum's reference execution client.
+- [**0xMiden/protocol**](https://github.com/0xMiden/protocol/issues/3087): Reported a serious footgun in Miden's (privacy-first L2) transaction kernel. My fix recommendation was implemented.
+- [huff-language/huff-project-template](https://github.com/huff-language/huff-project-template/pull/17): Identified and fixed a long-standing bug in Huff's starter template (EVM low-level language).
+- [Picodes/4naly3er](https://github.com/Picodes/4naly3er/pull/40): Fixed a rule in an AST-powered Solidity static analyzer.
 
 ### Technical Articles 📃
 
